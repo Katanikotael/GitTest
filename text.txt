@@ -1,4 +1,8 @@
 Hello world!
 Hello Russia!
 Hello world!
+<<<<<<< HEAD
 Hello Mercury!
+=======
+fix
+>>>>>>> patch
