@@ -2,4 +2,6 @@ fix
 fix 2
 Hello Mercury!
 Hello Mars!
-Master line.
+Master line
+
+new line
