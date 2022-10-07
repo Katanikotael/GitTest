@@ -2,3 +2,5 @@ fix
 fix 2
 Hello Mercury!
 Hello Mars!
+
+new line
