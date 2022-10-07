@@ -5,3 +5,5 @@ Hello Mars!
 Master line
 
 new line
+
+other new line
